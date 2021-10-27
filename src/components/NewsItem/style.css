@@ -1,0 +1,32 @@
+.news-item {
+    width: 100%;
+    border-radius: 8px;
+    background-color: #fff;
+}
+
+.news-item__title {
+    font-size: x-large;
+    padding: 0 20px;
+    margin: 9px 0;
+}
+
+.news-item__text {
+    font-size: larger;
+    padding: 0 20px;
+    margin-bottom: 9px;
+}
+
+.news-item__image {
+    width: 100%;
+    margin-bottom: 9px;
+    padding: 0;
+}
+
+.news-item__url {
+    display: block;
+    padding: 0 20px;
+    margin-bottom: 9px;
+    color: #C3C3C3;
+    font-size: large;
+    text-decoration: none;
+}

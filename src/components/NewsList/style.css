@@ -1,0 +1,18 @@
+.news-list {
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    margin: 0 auto;
+    padding: 10px 0;
+    width: 100%;
+    max-width: 650px;
+}
+
+.news-list__load-more {
+    font-size: x-large;
+}
+
+.news-list__load-more:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}

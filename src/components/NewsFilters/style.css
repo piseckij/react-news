@@ -1,0 +1,25 @@
+input, button, select {
+    height: 30px;
+}
+
+input {
+    width: calc(100% - 75px);
+}
+
+select {
+    width: 100%;
+}
+
+.news-filters {
+    display: flex;
+    column-gap: 20px;
+    font-size: x-large;
+}
+
+form {
+    flex: 1;
+}
+
+.news-search {
+    text-align: left;
+}
